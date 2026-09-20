@@ -27,8 +27,8 @@ En este **parrafo**, *podemos ver* `codigo`:
 
 ### Enlaces - 
 
-[YouTube] (https://www.youtube.com)
-[Markdown] (Markdown2.md)
+[YouTube](https://www.youtube.com)
+[Markdown](Markdown2.md)
 
 ### Imagenes -
 
